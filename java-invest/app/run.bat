@@ -1,0 +1,1 @@
+java -jar history.jar token_tinkoff.txt
