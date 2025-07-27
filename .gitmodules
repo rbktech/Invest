@@ -1,0 +1,3 @@
+[submodule "invest-desktop-cxx-wx"]
+	path = invest-desktop-cxx-wx
+	url = https://github.com/rbktech/invest-desktop-cxx-wx.git
