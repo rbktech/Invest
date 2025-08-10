@@ -1,0 +1,3 @@
+[submodule "invest-console-java"]
+	path = invest-console-java
+	url = https://github.com/rbktech/invest-console-java.git
